@@ -1,0 +1,30 @@
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.deps.json
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.dll
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.pdb
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.Models.dll
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.Models.pdb
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.AssemblyReference.cache
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.AssemblyInfoInputs.cache
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.AssemblyInfo.cs
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.CoreCompileInputs.cache
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.CopyComplete
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.dll
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\refint\Fibs.DataAccess.dll
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.pdb
+D:\tasks\csharp\.NET CORE\MVC\Fibs\Fibs.DataAccess\obj\Debug\net6.0\ref\Fibs.DataAccess.dll
+E:\getintoweb\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.deps.json
+E:\getintoweb\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.dll
+E:\getintoweb\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.DataAccess.pdb
+E:\getintoweb\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.Models.dll
+E:\getintoweb\Fibs\Fibs.DataAccess\bin\Debug\net6.0\Fibs.Models.pdb
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.AssemblyReference.cache
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.AssemblyInfoInputs.cache
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.AssemblyInfo.cs
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.CoreCompileInputs.cache
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.csproj.CopyComplete
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.dll
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\refint\Fibs.DataAccess.dll
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\Fibs.DataAccess.pdb
+E:\getintoweb\Fibs\Fibs.DataAccess\obj\Debug\net6.0\ref\Fibs.DataAccess.dll
